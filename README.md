@@ -1,6 +1,6 @@
 ### About me
 
-Senior Frontend Engineer with 8+ years building production web apps — complex state management, async-heavy UIs, and pixel-perfect component systems. Lately focused on Web3/dApp products.
+Senior Frontend Engineer with 8+ years building production web apps. I handled complex state management setups, async-heavy UIs, and pixel-perfect component systems. Lately focused on Web3/dApp products.
 
 I also build software for fun:
 - [**Dragit**](https://github.com/aledecicco/dragit) - a cross-platform drag-and-drop Git client that makes the everyday workflow much more fluid, using Tauri, Rust and React.
