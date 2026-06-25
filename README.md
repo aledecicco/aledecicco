@@ -1,12 +1,18 @@
 ### About me
 
-Senior Frontend Engineer with 8+ years of experience building production web apps. I handled complex state management setups, async-heavy UIs, and pixel-perfect component systems. Lately focused on Web3/dApp products.
+Senior Frontend Engineer with 9+ years of experience building production web apps.
 
 I also build software for fun:
-- [**Dragit**](https://github.com/aledecicco/dragit) - a cross-platform drag-and-drop Git client that makes the everyday workflow much more fluid, using Tauri, Rust and React.
-- [**English Programming Language**](https://github.com/aledecicco/english-programming-language) - a programming language where valid programs are parseable English sentences, with an interpreter written in Haskell. Built a two-stage parser that resolves the inherent ambiguity of natural language through strong-typing analysis and other heuristics.
+- [**Dragit**](https://github.com/aledecicco/dragit) - a fully-featured, cross-platform, drag-and-drop, Git client.
+- [**English Programming Language**](https://github.com/aledecicco/english-programming-language) - a programming language where valid programs are parseable English sentences.
 
-**Main stack:** React, TypeScript, Rust
-
-Based in Argentina, open to remote roles or relocation to France (EU Citizen).
+Based in Argentina, open to remote roles globally.
 [LinkedIn](https://www.linkedin.com/in/alejandro-de-cicco/)
+
+<br/>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=aledecicco&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
